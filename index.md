@@ -10,4 +10,4 @@
 - Dock a window on the left: Alt + [ (left square bracket)
 - Turn Caps Lock on or off: Search Search + Alt
 
-https://support.google.com/chromebook/answer/183101?hl=en
+More: https://support.google.com/chromebook/answer/183101?hl=en
