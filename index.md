@@ -8,6 +8,8 @@
 
 - Take a partial screenshot: Shift + Ctrl + Show windows
 - Dock a window on the left: Alt + [ (left square bracket)
-- Turn Caps Lock on or off: Search Search + Alt
+- Delete the next letter (forward delete)	Alt + Backspace
+- Turn Caps Lock on or off: Search + Alt
+- See all keyboard shortcuts: Press Ctrl + Alt + / (forward slash)
 
 More: https://support.google.com/chromebook/answer/183101?hl=en
