@@ -18,6 +18,7 @@ If you haven't installed Apache and PHP, read that first.
 `hostname -I`
 
 5. Paste the IP address into Chrome, you should see an Apache2 Debian Default Page.
+If the IP address doesn't work, paste `http://penguin.termina.linux.test/` into Chrome.
 
 ## Run from command line
 
