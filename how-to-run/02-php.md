@@ -6,9 +6,28 @@
 
 If you haven't installed Apache and PHP, read that first.
 
-## Download PHP script
+## Create PHP script
 
-2. Put the file somewhere in /var/www/html/
+2. Change the current working directory to the location where you want the script(s).
+
+`cd /var/www/html/`
+
+Put your PHP script somewhere in that folder or
+
+[Clone a GitHub repository](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
+
+a. On GitHub, navigate to the main page of the repository.
+b. Under the repository name, click Clone or download.
+c. Copy the URL under "Clone with HTTPS" or "Use SSH"
+d. In Terminal, type `git clone`, and then paste the URL you copied in Step c.
+
+`git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY`
+f. Press Enter. Your local clone will be created.
+g. To refresh your repository:
+
+`git fetch`
+
+[Git cheatsheet](https://help.github.com/en/github/getting-started-with-github/git-cheatsheet)
 
 ## Run from Chrome browser
 
