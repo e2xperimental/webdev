@@ -17,8 +17,11 @@ Put your PHP script somewhere in that folder or
 [Clone a GitHub repository](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 
 a. On GitHub, navigate to the main page of the repository.
+
 b. Under the repository name, click Clone or download.
+
 c. Copy the URL under "Clone with HTTPS" or "Use SSH"
+
 d. In Terminal, type `git clone`, and then paste the URL you copied in Step c.
 
 `git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY`
