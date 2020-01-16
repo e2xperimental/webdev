@@ -25,7 +25,9 @@ c. Copy the URL under "Clone with HTTPS" or "Use SSH"
 d. In Terminal, type `git clone`, and then paste the URL you copied in Step c.
 
 `git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY`
+
 f. Press Enter. Your local clone will be created.
+
 g. To refresh your repository:
 
 `git fetch`
