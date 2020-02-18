@@ -2,7 +2,7 @@
 layout: post
 title: How to run PHP scripts on a Chromebook
 category: chromebook-linux
-tags: [php, how-to]
+tags: [php, how-to-run]
 ---
 
 1. Start Apache.
