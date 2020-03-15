@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to run PHP scripts on a Chromebook
+date: 2019-12-01 13:00:00 -0000
 category: php
 tags: [chromebook-linux, how-to-run]
 ---
