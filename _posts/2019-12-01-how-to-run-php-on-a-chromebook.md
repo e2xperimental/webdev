@@ -2,9 +2,10 @@
 layout: post
 title: How to run PHP scripts on a Chromebook
 date: 2019-12-01 13:00:00 -0000
-category: php
-tags: [chromebook-linux, how-to-run]
+category: chromebook-linux
+tags: [php, how-to-run]
 ---
+# How to run PHP scripts on a Chromebook
 
 1. Start Apache.
 
