@@ -2,18 +2,11 @@
 title: Homepage
 ---
 
-<div class="posts">
+<ul class="posts">
   {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.content }}
-      </div>
-    </article>
+      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
-</div>
+</ul>
 <!--
 # Linux for Acer Chromebook R13
 
