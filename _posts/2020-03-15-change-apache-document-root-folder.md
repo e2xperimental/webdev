@@ -15,7 +15,16 @@ tags: [apache]
 `DocumentRoot /path/to/home/directory/www/html`
 6. Move `000-default.conf` back to :
 `sudo cp 000-default.conf /etc/apache2/sites-available/`
-7. Then restart the apache server:
+
+7. Similarly, enable files and directory listing:
+`/etc/apache2/apache2.conf`
+8. Change `<Directory /var/www/>` to `<Directory /path/to/home/directory/www/>`
+9. Then restart the apache server:
 `sudo service apache2 restart`
 
-Source: https://askubuntu.com/questions/337874/change-apache-document-root-folder-to-secondary-hard-drive
+
+
+Sources
+
+- https://askubuntu.com/questions/337874/change-apache-document-root-folder-to-secondary-hard-drive
+- https://francescoficarola.com/apache-enable-files-directory-listing/
