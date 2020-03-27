@@ -1,0 +1,19 @@
+---
+layout: post
+title: How to fix Apache 403 forbidden errors
+category: chromebook-linux
+tags: [apache, linux]
+---
+# How to fix Apache 403 forbidden errors
+
+Check that:
+
+- Apache can physically access the file (the user that run apache, probably www-data or apache, can access the file in the filesystem)
+- Apache can list the content of the folder (read permission)
+- Apache has a "Allow" directive for that folder. There should be one for /var/www/, you can check default vhost for example.
+
+Additionally, you can look at the error.log file (usually located at /var/log/apache2/error.log) which will describe why you get the 403 error exactly.
+
+
+Sources
+- https://stackoverflow.com/questions/18447454/apache-giving-403-forbidden-errors
