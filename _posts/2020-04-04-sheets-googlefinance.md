@@ -26,24 +26,31 @@ Previous day's closing price.
 `=GOOGLEFINANCE("FSKAX", "closeyest")`
 
 Name of mutual fund:
+
 `=GOOGLEFINANCE("FSKAX", "name")`
 
 Fund's expense ratio:
+
 `=GOOGLEFINANCE("FSKAX", "expenseratio")`
 
 Amount of the most recent cash distribution:
+
 `=GOOGLEFINANCE("FSKAX", "incomedividend")`
 
 Date of the most recent cash distribution:
+
 `=GOOGLEFINANCE("FSKAX", "incomedividenddate")`
 
 Amount of the most recent capital gain distribution.
+
 `=GOOGLEFINANCE("FSKAX", "capitalgain")`
 
 Date of the most recent capital gain distribution.
+
 `=GOOGLEFINANCE("FSKAX", "capitalgaindate")`
 
 The year-to-date return:
+
 `=GOOGLEFINANCE("FSKAX", "returnytd")`
 
 `=GOOGLEFINANCE("GOOG", "price", "1/1/2014", "12/31/2014", "DAILY")`
@@ -51,4 +58,5 @@ The year-to-date return:
 Sources:
 
 <https://youtu.be/zOJ1l0S-Zj0>
+
 <https://support.google.com/docs/answer/3093281?hl=en>
