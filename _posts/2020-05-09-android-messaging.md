@@ -7,7 +7,7 @@ tags: []
 ---
 # Android Messages app
 
-If you keep getting, "Setting up" and "Trying to verify" when enabling Wi-Fi text messaging, this worked for me:
+If you keep getting, "Setting up" and "Trying to verify" when enabling Wi-Fi text messaging, try this:
 
 1. Turn on Airplane mode.
 2. Open the Settings app.
