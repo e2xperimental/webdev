@@ -29,3 +29,4 @@ The Messages app uses RCS (Rich Communication Services) instead of SMS as of lat
 Sources:
 https://support.google.com/messages/thread/8641879?hl=en
 https://www.blog.google/products/rcs/upgrading-messaging-android-us-rcs/
+https://piunikaweb.com/2019/11/01/rcs-messaging-reportedly-disabled-on-some-devices-but-theres-a-workaround/
