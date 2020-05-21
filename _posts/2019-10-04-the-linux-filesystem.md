@@ -2,7 +2,7 @@
 layout: post
 title: The Linux Filesystem
 date: 2019-10-04 19:31:00 -0000
-category: chromebook-linux
+category: chromebook
 tags: [linux]
 ---
 # The Linux Filesystem
