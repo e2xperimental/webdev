@@ -2,7 +2,7 @@
 layout: post
 title: What linux apps come installed on my Chromebook Acer R 13?
 date: 2019-10-05
-category: chromebook-linux
+category: chromebook
 tags: [linux]
 ---
 # What linux apps come installed on my Chromebook Acer R 13?
