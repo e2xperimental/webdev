@@ -1,8 +1,8 @@
 ---
 layout: post
 title: How to run Apache on an Acer Chromebook R 13
-category: chromebook-linux
-tags: [apache, how-to-run]
+category: chromebook
+tags: [linux, apache, how-to-run]
 ---
 
 # How to run Apache on an Acer Chromebook R 13
