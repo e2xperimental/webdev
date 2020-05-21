@@ -1,7 +1,6 @@
 ---
 layout: post
 title: How to install linux apps
-category: chromebook-linux
 date: 2020-03-15
 category: chromebook
 tags: [linux]
