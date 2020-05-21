@@ -2,8 +2,8 @@
 layout: post
 title: How to install AWS CLI on a Chromebook Acer R 13
 date: 2019-10-06 13:00:00 -0000
-category: chromebook-linux
-tags: [aws, how-to-install]
+category: chromebook
+tags: [linux, aws, how-to-install]
 ---
 # How to install AWS CLI on a Chromebook Acer R 13
 
