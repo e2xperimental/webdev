@@ -1,8 +1,8 @@
 ---
 layout: post
 title: How to change the Apache document root folder on a Chromebook
-category: chromebook-linux
-tags: [apache]
+category: chromebook
+tags: [linux, apache]
 ---
 # How to change the Apache document root folder on a Chromebook
 
