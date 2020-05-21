@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Useful linux commands
-category: chromebook-linux
+category: chromebook
 tags: [linux]
 ---
 # Useful linux commands
