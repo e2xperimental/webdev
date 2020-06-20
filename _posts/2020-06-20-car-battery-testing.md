@@ -21,7 +21,8 @@ category: car
   - 12.2 V = 50%
   - 12.0 V = 25%
   - 11.9 V = Discharged
-  If you can start the car, let the engine run for 10 mins so the alternator can charge the battery.
+
+If you can start the car, let the engine run for 10 mins so the alternator can charge the battery.
 
 
 ## How to load test a car battery using load tester
