@@ -1,11 +1,11 @@
 ---
 layout: post
-title: How tips to work from home
+title: Tips: Outlook for the web
 date: 2020-03-16
 category: work-from-home
 tags: [outlook-for-web]
 ---
-# Outlook for the web
+# Outlook for the web tips
 
 
 1. Change the font size when reading email
