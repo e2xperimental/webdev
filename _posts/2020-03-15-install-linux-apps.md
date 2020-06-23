@@ -50,4 +50,4 @@ Install linux software on a Chromebook Acer R 13
 Turn on GPU acceleration on Chromebooks
 
 ## Source
-(https://www.oreilly.com/library/view/ubuntu-made-easy/9781457169564/)[Ubuntu made easy]
+(Ubuntu made easy)[https://www.oreilly.com/library/view/ubuntu-made-easy/9781457169564/]
