@@ -14,6 +14,8 @@ In Terminal, check all the repositories to see if you need any updates.
 
 `sudo apt update`
 
+or `sudo apt-get update`*
+
 Check to see which of your packages are upgradable.
 
 `apt list --upgradable`
@@ -23,10 +25,6 @@ Then type this to update them.
 ``sudo apt upgrade`
 ...
 Do you want to continue? [Y/n]   y``
-
-Update your apt database:
-
-`sudo apt-get update`
 
 Install FireFox:
 
@@ -44,10 +42,12 @@ Find a list of all stable debian packages:
 https://packages.debian.org/stable/
 
 ## Next steps
-What linux apps come with my Chromebook Acer R 13?
-Understanding the Linux Filesystem on your Chromebook
-Install linux software on a Chromebook Acer R 13
-Turn on GPU acceleration on Chromebooks
+- What linux apps come with my Chromebook Acer R 13?
+- Understanding the Linux Filesystem on your Chromebook
+- Install linux software on a Chromebook Acer R 13
+- Turn on GPU acceleration on Chromebooks
 
 ## Source
-(Ubuntu made easy)[https://www.oreilly.com/library/view/ubuntu-made-easy/9781457169564/]
+- [Ubuntu made easy](https://www.oreilly.com/library/view/ubuntu-made-easy/9781457169564/)
+
+##* https://itsfoss.com/apt-vs-apt-get-difference/
