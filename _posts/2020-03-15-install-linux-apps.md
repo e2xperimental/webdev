@@ -50,4 +50,4 @@ https://packages.debian.org/stable/
 ## Source
 - [Ubuntu made easy](https://www.oreilly.com/library/view/ubuntu-made-easy/9781457169564/)
 
-##* https://itsfoss.com/apt-vs-apt-get-difference/
+* https://itsfoss.com/apt-vs-apt-get-difference/
