@@ -26,6 +26,8 @@ Then type this to update them.
 ...
 Do you want to continue? [Y/n]   y``
 
+## Installing Apps
+
 Install FireFox:
 
 `sudo apt-get install firefox-esr`
@@ -37,6 +39,10 @@ Install a photo editor:
 Install an audio editor:
 
 `sudo apt-get install audacity`
+
+Install NodeJS
+
+`sudo apt-get install node`
 
 Find a list of all stable debian packages:
 https://packages.debian.org/stable/
