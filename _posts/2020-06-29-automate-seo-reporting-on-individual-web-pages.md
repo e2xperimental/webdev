@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Tracking SEO progress on individual web pages
+title: Automate SEO reporting with Google Data Studio
 date: 2020-07-04 11:33:00 -0000
-category: wordpress
+category: seo
 ---
 
-# Automate SEO Reporting with Google Data Studio
+# Automate SEO reporting with Google Data Studio
 
-In this project, you'll use Google Data Studio to report the SEO impact of web page improvements.
+In this project, you'll learn how to automate SEO reporting on individual web pages.
+Specifically, reporting the progress of individual web pages.
 
 You'll use:
 
