@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Test a Car Battery With a Multimeter
-date: 2019-12-01 13:00:00 -0000
+date: 2020-06-21 13:00:00 -0000
 category: car
 ---
 
