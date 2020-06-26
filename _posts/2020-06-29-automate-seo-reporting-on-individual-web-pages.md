@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Automate SEO reporting with Google Data Studio
-date: 2020-07-04 11:33:00 -0000
+date: 2020-06-29 11:33:00 -0000
 category: seo
 ---
 
