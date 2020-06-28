@@ -1,0 +1,25 @@
+---
+layout: post
+title: Google analytics 
+date: 2019-12-01 13:00:00 -0000
+category: google-anakytics
+---
+# Setting up Google analytics tracking
+
+## Adding filters
+
+Ghost spam
+
+Filter out random analytic codes sent by spammers directly to GA without visiting your site.
+
+Bots (scrapers, unwanted spiders)
+
+Internal traffic
+
+https://carloseo.com/removing-google-analytics-spam/
+
+
+For the Google analytics website, follow these instructions.<br />
+<a href="https://support.google.com/analytics/answer/1151300?hl=en">https://support.google.com/analytics/answer/1151300?hl=en</a><br />
+<br />
+These custom reports don't show up on the Android app.
