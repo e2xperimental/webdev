@@ -1,16 +1,25 @@
 ---
 layout: post
 title: Google analytics 
-date: 2019-12-01 13:00:00 -0000
+date: 2019-09-15 13:00:00 -0000
 category: google-anakytics
 ---
 # Setting up Google analytics tracking
 
 ## Adding filters
 
-Ghost spam
+### Ghost spam
 
+Apply a valid hostname filter to
 Filter out random analytic codes sent by spammers directly to GA without visiting your site.
+
+1. Create a "Filtered" view.
+
+Get a list of website's valid hostnames.
+
+2. In Analytics, onavigate to the Audience > Technology > Network, in the left side.
+3. Change the table's primary dimension to [Hostname](https://analytics.google.com/analytics/web/#/report/visitors-network/a145383681w235426496p222538579/explorer-segmentExplorer.segmentId=analytics.hostname&explorer-table.plotKeys=%5B%5D).
+
 
 Bots (scrapers, unwanted spiders)
 
