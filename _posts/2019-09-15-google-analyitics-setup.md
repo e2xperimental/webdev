@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google analytics 
+title: Setting up Google analytics tracking
 date: 2019-09-15 13:00:00 -0000
 category: google-anakytics
 ---
