@@ -1,11 +1,11 @@
 ---
 layout: post
-title: How to setup Messages
+title: Enable WiFi text messaging on Android
 date: 2020-05-09
 category: android
 tags: []
 ---
-# Android Messages app
+# Enable WiFi text messaging on Android
 
 If you keep getting, "Setting up" and "Trying to verify" when enabling Wi-Fi text messaging, try this:
 
