@@ -34,8 +34,7 @@ Do you want to continue? [Y/n]   y``
 
 To see what version of Node you have:
 
-`node -v
-v10.23.1`
+`node -v`
 
 ## NPM
 
