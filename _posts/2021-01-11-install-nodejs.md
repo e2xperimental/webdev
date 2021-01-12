@@ -32,6 +32,11 @@ Do you want to continue? [Y/n]   y``
 
 `sudo apt-get install node`
 
+To see what version of Node you have:
+
+`node -v
+v10.23.1`
+
 ## NPM
 
 `npm` is bundled with Node.js. It runs on the command line as the command `npm`. It is a package manager that downloads packages into a `node_modules` folder.
