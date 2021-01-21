@@ -8,7 +8,7 @@ tags: [adobe]
 
 # How to edit audio with Adobe Audition
 
-1. Open MP3
+1. Open an audio file into the Edit view of Audition
 
 ## Converting from stereo to mono
 
@@ -26,13 +26,15 @@ or
 
 ## Save sections of a long audio file into separate files
 
-1. Open an audio file into the Edit view of Audition
-2. From the Window menu, select > **Marker List** to open the Markers Panel.
-3. Select a section of audio that you would like to export as its own file.
-4. click the “Add Marker” button in the Markers Panel.
+1. Open the **Window** menu and select **Markers** to open the Markers Panel.
+2. Drag mouse over audio section that you'd like to export as its own file.
+3. Right-click on audio selection.
+4. Select **Marker** > **Add Cue Marker**
+  -  Make sure you add a range marker (will always have a begin and end time) and not an individual point marker. 
 5. When you are done marking each section, go to the Markers Panel and give each marker its own name (Label) or leave them with the default generic marker labels.
 6. Select the marker ranges you wish to export (CTRL or SHIFT + click each marker).
-7. Click the “Batch Export Marker Regions” button which is at the bottom of the Markers Panel with a floppy disk icon. If this button is disabled it means you either do not have any markers selected or you have individual point markers chosen and not ranges (range markers will always have a begin and end time).
+7. Click the **Export audio of selected range markers to separate files** button, at the top of the Markers Panel.
+Note: If this button is disabled, you either .
 
 
 Source:
