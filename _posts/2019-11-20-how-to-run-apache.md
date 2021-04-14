@@ -67,6 +67,23 @@ udp        0      0 127.0.0.53:53           0.0.0.0:*
 udp        0      0 0.0.0.0:68              0.0.0.0:*                          
 udp        0      0 0.0.0.0:5355            0.0.0.0:*                          
 udp6       0      0 :::5355                 :::*
+````
 
 `0.0.0.0` means web server is listening to every address available for requests.
+
+If you stop the server and rerun `netstat -an | more`
+
+````
+Active Internet connections (servers and established)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 0.0.0.0:5355            0.0.0.0:*               LISTEN     
+tcp        0      0 0.0.0.0:2222            0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.53:53           0.0.0.0:*               LISTEN     
+tcp        0      0 100.115.92.205:2222     100.115.92.25:42563     ESTABLISHED
+tcp6       0      0 :::5355                 :::*                    LISTEN     
+tcp6       0      0 :::2222                 :::*                    LISTEN     
+udp        0      0 127.0.0.53:53           0.0.0.0:*                          
+udp        0      0 0.0.0.0:68              0.0.0.0:*                          
+udp        0      0 0.0.0.0:5355            0.0.0.0:*                          
+udp6       0      0 :::5355                 :::*
 ````
