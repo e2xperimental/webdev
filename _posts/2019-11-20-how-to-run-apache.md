@@ -1,11 +1,11 @@
 ---
 layout: post
-title: How to run Apache on an Acer Chromebook R 13
-category: chromebook
+title: How to run Apache web server on an Acer Chromebook R 13
+category: "chromebook + apache web server"
 tags: [linux, apache, how-to-run]
 ---
 
-# How to run Apache on an Acer Chromebook R 13
+# How to run Apache web server on an Acer Chromebook R 13
 
 To start Apache 2, run:
 
