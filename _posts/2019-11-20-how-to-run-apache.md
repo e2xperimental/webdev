@@ -32,7 +32,8 @@ Under `eth0` look for the number next to `inet`.
 
 Run: `netstat -a | more`
 
-`Active Internet connections (servers and established)
+````
+Active Internet connections (servers and established)
 Proto Recv-Q Send-Q Local Address           Foreign Address         State      
 tcp        0      0 0.0.0.0:hostmon         0.0.0.0:*               LISTEN     
 tcp        0      0 0.0.0.0:2222            0.0.0.0:*               LISTEN     
@@ -45,4 +46,5 @@ tcp6       0      0 [::]:http               [::]:*                  LISTEN
 udp        0      0 127.0.0.53:domain       0.0.0.0:*                          
 udp        0      0 0.0.0.0:bootpc          0.0.0.0:*                          
 udp        0      0 0.0.0.0:hostmon         0.0.0.0:*                          
-udp6       0      0 [::]:hostmon            [::]:*`
+udp6       0      0 [::]:hostmon            [::]:*
+````
