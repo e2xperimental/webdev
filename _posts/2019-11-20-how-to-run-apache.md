@@ -9,7 +9,10 @@ tags: [linux, apache, how-to-run]
 
 To start Apache 2, run:
 
-`sudo service apache2 start`
+````
+sudo /etc/init.d/apache2 start
+[ ok ] Starting apache2 (via systemctl): apache2.service.
+````
 
 To restart Apache 2, run:
 
@@ -107,3 +110,7 @@ udp        0      0 0.0.0.0:68              0.0.0.0:*
 udp        0      0 0.0.0.0:5355            0.0.0.0:*                          
 udp6       0      0 :::5355                 :::*
 ````
+
+## What is your domain name?
+
+## What is using for a server name?
