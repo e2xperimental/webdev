@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to connect to my Chromebook's Apache server from another computer?
-category: chromebook apache
+category: "chromebook + apache web server"
 tags: [linux, apache]
 ---
 # How to connect to my Chromebook's Apache server from another computer?
