@@ -8,7 +8,10 @@ tags: [linux, apache]
 
 ## Get your Chromebook's IP address
 
-1. Google, "what is my ip address"
+1. In Settings, go to Linux development environment (Beta) > Port forwarding
+2. 
+3. 
+4. Google, "what is my ip address"
 '70.113.50.4
 Your public IP address`
 
@@ -47,6 +50,8 @@ Do this using the `NameVirtualHost` directive within the apache configuration i.
 
 Sources
 
+- https://support.google.com/chromebook/thread/106121945?hl=en&msgid=106207522#
+- https://chromeos.dev/en/web-environment/port-forwarding
 - https://www.thegeekdiary.com/beginners-guide-to-apache-http-server/
 - https://www.thegeekdiary.com/apache-http-server-most-commonly-used-configuration-directives/
 - https://www.guru99.com/apache.html
