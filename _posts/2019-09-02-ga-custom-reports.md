@@ -2,7 +2,7 @@
 layout: post
 title: Google analytics custom reports
 date: 2019-12-01 13:00:00 -0000
-category: google-anakytics
+category: Google analytics
 ---
 # Google analytics custom reports
 
