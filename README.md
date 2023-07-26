@@ -1,3 +1,3 @@
 # cheatsheets
 
-https://erikespana.github.io/cheatsheets/
+https://erikespana.github.io/webdev/
