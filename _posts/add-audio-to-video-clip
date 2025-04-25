@@ -1,0 +1,42 @@
+---
+layout: post
+title: How to add a Adobe Audition
+date: 2025-04-25
+category: Adobe Premiere
+tags: [adobe]
+---
+
+# How to edit audio with Adobe Audition
+
+1. Open an audio file into the Edit view of Audition
+
+## Converting from stereo to mono
+
+1. Open the **Favorites** menu
+2. Select **Convert to Mono**
+
+or
+
+1. Open the **Edit** menu, choose **Convert Sample Type**
+2. From the Channels menu, select Mono, Stereo, or 5.1.
+3. Click Ok
+4. Right-click on track
+5. Select Insert into Multitrack > New Multitrack session
+6. Click OK
+
+## Save sections of a long audio file into separate files
+
+1. Open the **Window** menu and select **Markers** to open the Markers Panel.
+2. Drag mouse over audio section that you'd like to export as its own file.
+3. Right-click on audio selection.
+4. Select **Marker** > **Add Cue Marker**
+  -  Make sure you add a range marker (will always have a begin and end time) and not an individual point marker. 
+5. When you are done marking each section, go to the Markers Panel and give each marker its own name (Label) or leave them with the default generic marker labels.
+6. Select the marker ranges you wish to export (CTRL or SHIFT + click each marker).
+7. Click the **Export audio of selected range markers to separate files** button, at the top of the Markers Panel.
+Note: If this button is disabled, you either .
+
+
+Source:
+[https://blog.adobe.com/en/publish/2010/06/04/using_audition_to_save_section.html](https://blog.adobe.com/en/publish/2010/06/04/using_audition_to_save_section.html)
+[https://www.youtube.com/watch?v=7OSLBN_UapE&feature=emb_logo](https://www.youtube.com/watch?v=7OSLBN_UapE&feature=emb_logo)
